@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// create main
 int main(void)
 {
     //print hello world
